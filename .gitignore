@@ -21,3 +21,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+*.vue linguist-detectable=true  
+*.js linguist-detectable=true  
+*.css linguist-detectable=false
+*.html linguist-detectable=false 
